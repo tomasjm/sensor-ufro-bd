@@ -1,0 +1,11 @@
+<package format="2">
+  <name>database_sensor</name>
+  <version>1.0.0</version>
+  <description>
+  Este es el paquete encargado de guardar los datos del sensor de viento y los datos de los sensores del dron
+  </description>
+  <maintainer email="t.jimenez03@ufromail.cl">Tomás Jiménez</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+</package>
